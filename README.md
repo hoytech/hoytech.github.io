@@ -1,4 +1,1 @@
-hoytech.github.io
-=================
-
-Blog and website
+http://hoytech.github.io
